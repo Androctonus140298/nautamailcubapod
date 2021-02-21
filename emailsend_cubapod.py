@@ -7,7 +7,7 @@ from email.encoders import encode_base64
 
 ### Para autenticarse en el smtp Server
 user = "androctonus1402@gmail.com"
-password = "123_Andro_123"
+password = "1234567890"
 
 ### Para las cabeceras del email
 remitente = "androctonus1402@gmail.com"
